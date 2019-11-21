@@ -1,0 +1,5 @@
+package geneticalgorithm;
+
+class SimpleDemoGA {
+    
+}
